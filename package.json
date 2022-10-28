@@ -7,7 +7,7 @@
         "build": "webpack",
         "lint": "standard",
         "lint-fix": "standard --fix",
-        "now-build": "npm run build",
+        "vercel-build": "npm run build",
         "dev": "webpack-dev-server",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
